@@ -1,0 +1,29 @@
+{
+  "name": "tomcreaven.github.io",
+  "version": "1.0.0",
+  "description": "nevercat website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomCreaven/tomcreaven.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TomCreaven/tomcreaven.github.io/issues"
+  },
+  "homepage": "https://github.com/TomCreaven/tomcreaven.github.io#readme",
+  "dependencies": {
+    "astro": "^7.1.6"
+  },
+  "allowScripts": {
+    "esbuild@0.28.1": true
+  }
+}
